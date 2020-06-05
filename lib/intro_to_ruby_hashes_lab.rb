@@ -5,7 +5,7 @@ def new_hash
 end
 
 def my_hash
-  ronaldo {
+  ronaldo = {
     :team => "real madrid",
     :country => "portugal"
   }
