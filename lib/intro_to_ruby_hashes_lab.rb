@@ -1,5 +1,7 @@
 def new_hash
-  
+  ronaldo = {
+    
+  }
 end
 
 def my_hash
