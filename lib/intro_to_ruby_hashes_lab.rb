@@ -6,7 +6,8 @@ end
 
 def my_hash
   ronaldo {
-    :team => "real madrid"
+    :team => "real madrid",
+    :country => "portugal"
   }
 end
 
